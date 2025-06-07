@@ -36,7 +36,7 @@
 
     In this project, I combine the real Million Song Dataset with data coming from Spotify API. With this pipeline, new researchers familiar with the old Million Song Dataset can get new information about the songs from Spotify, such as new audio features, song popularity, artist popularity...
 
- **Main tools:** Amazone S3, Redshift, Amazon EC2, Prefect, Terraform
+    **Main tools:** Amazone S3, Redshift, Amazon EC2, Prefect, Terraform
 
 - [Github Archive Event Pipeline](https://github.com/hoanghapham/github-archive-pipeline/tree/master)
 
