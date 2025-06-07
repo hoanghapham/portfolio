@@ -56,4 +56,4 @@
 
     In this project, I analyzed the Vietnam War's bombing patterns using data from the THOR database, and wrote two articles exploring this topic from both analytical and historical perspectives.
 
-    Main tools: R, R Markdown, ggplot2, plotly
+    **Main tools:** R, R Markdown, ggplot2, plotly
