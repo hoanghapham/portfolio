@@ -23,6 +23,9 @@
 
     **Main tools:** scikit-learn, PyTorch, Transformers
 
+- [Model samples](https://github.com/hoanghapham/model_samples): A collection of sample codes for machine learning models, from models coded from scratch using `numpy` (Stochastic Gradient Descent, K-means, Linear & Logistics Regression, Neural Networks), to models leveraging PyTorch modules.
+    **Main tools**: scikit-learn, numpy, PyTorch
+
 
 ## Software Engineering
 
