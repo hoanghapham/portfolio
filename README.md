@@ -1,4 +1,4 @@
-# Projects by Ha Pham
+# Projects & Demos by Ha Pham
 
 
 ## Machine Learning
@@ -23,16 +23,25 @@
 
     **Main tools:** scikit-learn, PyTorch, Transformers
 
-- [Model samples](https://github.com/hoanghapham/model_samples): A collection of sample codes for machine learning models, from models coded from scratch using `numpy` (Stochastic Gradient Descent, K-means, Linear & Logistics Regression, Neural Networks), to models leveraging PyTorch modules.
+- [Model samples](https://github.com/hoanghapham/model_samples):
+
+  A collection of sample codes for machine learning models, from models coded from scratch using `numpy` (Stochastic Gradient Descent, K-means, Linear & Logistics Regression, Neural Networks), to models leveraging PyTorch modules.
     **Main tools**: scikit-learn, numpy, PyTorch
 
 
 ## Software Engineering
 
-- [Simple Search](https://github.com/hoanghapham/simple-search): A simple tool to search through text files and rank results using TF-IDF, meant for demonstration purpose.
+- [Simple Search](https://github.com/hoanghapham/simple-search):
 
-    **Main tools:** Python
+    A simple tool to search through text files and rank results using TF-IDF, meant for demonstration purpose.
 
+    **Main tools:** Python, reverse index
+
+- [Code Samples](https://github.com/hoanghapham/code-samples):
+
+    Code snippets implementing some algorithms, or solutions to some problems, for demo purpose.
+
+    **Main tools:** Python, PyTorch, numpy
 
 ## Data Engineering
 - [Music ETL](https://github.com/hoanghapham/music-etl)
