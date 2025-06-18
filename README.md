@@ -58,6 +58,7 @@
 
 
 - [dbt CI demo](https://github.com/hoanghapham/dbt_ci_demo/tree/demo)
+
     A small demo on how to use dbt with GitHub Action to enable CI test.
 
     **Main tools:** dbt, GitHub Action
