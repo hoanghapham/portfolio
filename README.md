@@ -31,13 +31,13 @@
 
 ## Software Engineering
 
-- [Simple Search](https://github.com/hoanghapham/simple-search):
+- [Simple Search](https://github.com/hoanghapham/simple-search)
 
     A simple tool to search through text files and rank results using TF-IDF, meant for demonstration purpose.
 
     **Main tools:** Python, reverse index
 
-- [Code Samples](https://github.com/hoanghapham/code-samples):
+- [Code Samples](https://github.com/hoanghapham/code-samples)
 
     Code snippets implementing some algorithms, or solutions to some problems, for demo purpose.
 
@@ -57,7 +57,8 @@
     **Main tools:** Terraform, Google Cloud Storage, BigQuery, Airflow, dbt, Google Data Studio
 
 
-- [dbt CI demo](https://github.com/hoanghapham/dbt_ci_demo/tree/demo): A small demo on how to use dbt with GitHub Action to enable CI test.
+- [dbt CI demo](https://github.com/hoanghapham/dbt_ci_demo/tree/demo)
+    A small demo on how to use dbt with GitHub Action to enable CI test.
 
     **Main tools:** dbt, GitHub Action
 
