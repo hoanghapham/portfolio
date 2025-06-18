@@ -11,7 +11,7 @@
 
     [Hugging Face Demo](https://huggingface.co/spaces/nazounoryuu/vlm-htr)
 
-- [Term project: Multi-modal models with Multiplex Network](https://github.com/hoanghapham/rnd-multiplex?tab=readme-ov-file)
+- [Multi-modal models with Multiplex Network](https://github.com/hoanghapham/rnd-multiplex?tab=readme-ov-file)
 
     In this project, I combine sensorimotor data with audio data to train an Electra model and evaluate on the GLUE tasks
 
@@ -23,7 +23,7 @@
 
     **Main tools:** scikit-learn, PyTorch, Transformers
 
-- [Model samples](https://github.com/hoanghapham/model_samples):
+- [Model samples](https://github.com/hoanghapham/model_samples)
 
   A collection of sample codes for machine learning models, from models coded from scratch using `numpy` (Stochastic Gradient Descent, K-means, Linear & Logistics Regression, Neural Networks), to models leveraging PyTorch modules.
     **Main tools**: scikit-learn, numpy, PyTorch
