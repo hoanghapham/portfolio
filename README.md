@@ -23,14 +23,18 @@
     **Main tools**: scikit-learn, numpy, PyTorch
 
 
-## Software Engineering
+## Code Samples
 
 - [Simple Search](https://github.com/hoanghapham/simple-search)
 
     A simple tool to search through text files and rank results using TF-IDF, meant for demonstration purpose.
 
     **Main tools:** Python, reverse index
+- [Distance map](https://github.com/hoanghapham/code-samples/blob/main/demo/distance_map.ipynb)
 
+    Take a list of points in 2D space and a certain resolution (NxN), generate a 2D color map representing the distance between pixels in the map to the given points. This include solutions that can generate the map up to N=65,536.
+
+  **Main tools:** Python, PyTorch, numpy
 
 ## Data Engineering
 - [Music ETL](https://github.com/hoanghapham/music-etl)
