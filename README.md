@@ -11,12 +11,6 @@
 
     [Hugging Face Demo](https://huggingface.co/spaces/nazounoryuu/vlm-htr)
 
-- [Multi-modal models with Multiplex Network](https://github.com/hoanghapham/rnd-multiplex?tab=readme-ov-file)
-
-    In this project, I combine sensorimotor data with audio data to train an Electra model and evaluate on the GLUE tasks
-
-    **Main tools:** scikit-learn, PyTorch, Whisper, CLAP, Montreal Forced Aligner
-
 - [Ideology and Power Identification in Parliamentary Debates](https://github.com/hoanghapham/power-identification?tab=readme-ov-file)
 
     This is a binary classification task in which my group and I determine if a statement in parliamentary debates belongs to the coalition or opposition of the government side. 
@@ -37,11 +31,6 @@
 
     **Main tools:** Python, reverse index
 
-- [Code Samples](https://github.com/hoanghapham/code-samples)
-
-    Code snippets implementing some algorithms, or solutions to some problems, for demo purpose.
-
-    **Main tools:** Python, PyTorch, numpy
 
 ## Data Engineering
 - [Music ETL](https://github.com/hoanghapham/music-etl)
