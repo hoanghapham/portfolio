@@ -11,7 +11,7 @@
 
     [Hugging Face Demo](https://huggingface.co/spaces/nazounoryuu/vlm-htr)
 
-- [Ideology and Power Identification in Parliamentary Debates](https://github.com/hoanghapham/power-identification?tab=readme-ov-file)
+<!-- - [Ideology and Power Identification in Parliamentary Debates](https://github.com/hoanghapham/power-identification?tab=readme-ov-file)
 
     This is a binary classification task in which my group and I determine if a statement in parliamentary debates belongs to the coalition or opposition of the government side. 
 
@@ -20,7 +20,7 @@
 - [Model samples](https://github.com/hoanghapham/model_samples)
 
   A collection of sample codes for machine learning models, from models coded from scratch using `numpy` (Stochastic Gradient Descent, K-means, Linear & Logistics Regression, Neural Networks), to models leveraging PyTorch modules.
-    **Main tools**: scikit-learn, numpy, PyTorch
+    **Main tools**: scikit-learn, numpy, PyTorch -->
 
 
 ## Code Samples
@@ -30,11 +30,11 @@
     A simple tool to search through text files and rank results using TF-IDF, meant for demonstration purpose.
 
     **Main tools:** Python, reverse index
-- [Distance map](https://github.com/hoanghapham/code-samples/blob/main/demo/distance_map.ipynb)
+<!-- - [Distance map](https://github.com/hoanghapham/code-samples/blob/main/demo/distance_map.ipynb)
 
     Take a list of points in 2D space and a certain resolution (NxN), generate a 2D color map representing the distance between pixels in the map to the given points. This include solutions that can generate the map up to N=65,536.
 
-  **Main tools:** Python, PyTorch, numpy
+  **Main tools:** Python, PyTorch, numpy -->
 
 ## Data Engineering
 - [Music ETL](https://github.com/hoanghapham/music-etl)
@@ -50,11 +50,11 @@
     **Main tools:** Terraform, Google Cloud Storage, BigQuery, Airflow, dbt, Google Data Studio
 
 
-- [dbt CI demo](https://github.com/hoanghapham/dbt_ci_demo/tree/demo)
+<!-- - [dbt CI demo](https://github.com/hoanghapham/dbt_ci_demo/tree/demo)
 
     A small demo on how to use dbt with GitHub Action to enable CI test.
 
-    **Main tools:** dbt, GitHub Action
+    **Main tools:** dbt, GitHub Action -->
 
 
 ## Data Analytics
