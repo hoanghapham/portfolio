@@ -11,16 +11,17 @@
 
     [Hugging Face Demo](https://huggingface.co/spaces/nazounoryuu/vlm-htr)
 
-<!-- - [Ideology and Power Identification in Parliamentary Debates](https://github.com/hoanghapham/power-identification?tab=readme-ov-file)
+- [Demo: Language Detector](https://github.com/hoanghapham/language-detector/)
+    
+    This project is a full web application for language detection, with a backend using FastAPI, and a simple UI using Streamlit. Users can upload files of various format (txt, pdf, docx...), and the application detect the language using either a Transformer model (XLM RoBERTa) or a simple Naive Bayes model.
 
-    This is a binary classification task in which my group and I determine if a statement in parliamentary debates belongs to the coalition or opposition of the government side. 
+    **Main tools:** scikit-learn, PyTorch, Transformer, Naive Bayes, XLM RoBERTa, FastAPI, Streamlit, Docker
 
-    **Main tools:** scikit-learn, PyTorch, Transformers
+- [Demo: Kitchen Monitoring](https://github.com/hoanghapham/kitchen-monitoring)
 
-- [Model samples](https://github.com/hoanghapham/model_samples)
+    This project simulates a monitoring system for kitchens, which performs object detection and tracking for two types of items (dish, tray), and further classifies the items into one of the three sub-categories. 
 
-  A collection of sample codes for machine learning models, from models coded from scratch using `numpy` (Stochastic Gradient Descent, K-means, Linear & Logistics Regression, Neural Networks), to models leveraging PyTorch modules.
-    **Main tools**: scikit-learn, numpy, PyTorch -->
+    **Main tools:** OpenCV, YOLO, FastAPI, Gradio, Docker
 
 
 ## Code Samples
