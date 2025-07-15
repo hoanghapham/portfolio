@@ -24,19 +24,6 @@
     **Main tools:** OpenCV, YOLO, FastAPI, Gradio, Docker
 
 
-## Code Samples
-
-- [Simple Search](https://github.com/hoanghapham/simple-search)
-
-    A simple tool to search through text files and rank results using TF-IDF, meant for demonstration purpose.
-
-    **Main tools:** Python, reverse index
-<!-- - [Distance map](https://github.com/hoanghapham/code-samples/blob/main/demo/distance_map.ipynb)
-
-    Take a list of points in 2D space and a certain resolution (NxN), generate a 2D color map representing the distance between pixels in the map to the given points. This include solutions that can generate the map up to N=65,536.
-
-  **Main tools:** Python, PyTorch, numpy -->
-
 ## Data Engineering
 - [Music ETL](https://github.com/hoanghapham/music-etl)
 
@@ -44,11 +31,11 @@
 
     **Main tools:** Amazone S3, Redshift, Amazon EC2, Prefect, Terraform
 
-- [Github Archive Event Pipeline](https://github.com/hoanghapham/github-archive-pipeline/tree/master)
+<!-- - [Github Archive Event Pipeline](https://github.com/hoanghapham/github-archive-pipeline/tree/master)
 
     With this project, I pull in data from GH Archive, transform and analyze them to get some information about the activity of public GitHub repositories over time.
 
-    **Main tools:** Terraform, Google Cloud Storage, BigQuery, Airflow, dbt, Google Data Studio
+    **Main tools:** Terraform, Google Cloud Storage, BigQuery, Airflow, dbt, Google Data Studio -->
 
 
 <!-- - [dbt CI demo](https://github.com/hoanghapham/dbt_ci_demo/tree/demo)
